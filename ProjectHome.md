@@ -1,0 +1,1 @@
+GradeAssist is a gradebook tool for teachers, written with Ruby on Rails.
